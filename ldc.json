@@ -1,0 +1,1150 @@
+[
+  {
+    "key": "10.74.64.242",
+    "name": "10.74.64.242",
+    "latitude": -23.5024,
+    "longitude":-46.8272
+  },
+ 
+  {
+    "key": "10.74.228.112",
+    "name": "10.74.228.112",
+    "latitude": -17.8198,
+    "longitude":-50.9466
+  },
+ 
+  {
+    "key": "BRRVD03",
+    "name": "BRRVD03",
+    "latitude": -17.7711,
+    "longitude":-50.8899
+  },
+ 
+  {
+    "key": "BRROO01",
+    "name": "BRROO01",
+    "latitude": -16.4573,
+    "longitude":-54.6610
+  },
+ 
+  {
+    "key": "BRSSZ03",
+    "name": "BRSSZ03",
+    "latitude": -23.9675,
+    "longitude":-46.3014
+  },
+ 
+  {
+    "key": "BRVAG02",
+    "name": "BRVAG02",
+    "latitude": -21.5743,
+    "longitude":-45.4423
+  },
+ 
+  {
+    "key": "BRABO02",
+    "name": "BRABO02",
+    "latitude": -14.0274,
+    "longitude":-52.1570
+  },
+ 
+  {
+    "key": "BRARA01",
+    "name": "BRARA01",
+    "latitude": -22.3596,
+    "longitude":-47.3888
+  },
+ 
+  {
+    "key": "BRCCV02",
+    "name": "BRCCV02",
+    "latitude": -24.9652,
+    "longitude":-53.4054
+  },
+ 
+  {
+    "key": "BRTLZ02",
+    "name": "BRTLZ02",
+    "latitude": -18.1680,
+    "longitude":-47.9192
+  },
+ 
+  {
+    "key": "BRCFS02",
+    "name": "BRCFS02",
+    "latitude": -10.6424,
+    "longitude":-51.5701
+  },
+ 
+  {
+    "key": "BREST01",
+    "name": "BREST01",
+    "latitude": -17.5622,
+    "longitude":-51.8866
+  },
+ 
+  {
+    "key": "BRITR02",
+    "name": "BRITR02",
+    "latitude": -18.3817,
+    "longitude":-49.2080
+  },
+ 
+  {
+    "key": "BRJTI02",
+    "name": "BRJTI02",
+    "latitude": -16.6933,
+    "longitude":-49.3226
+  },
+ 
+  {
+    "key": "BRMGF02",
+    "name": "BRMGF02",
+    "latitude": -23.3781,
+    "longitude":-51.9466
+  },
+ 
+  {
+    "key": "BRNMU02",
+    "name": "BRNMU02",
+    "latitude": -13.8212,
+    "longitude":-56.0782
+  },
+ 
+  {
+    "key": "BRPNG03",
+    "name": "BRPNG03",
+    "latitude": -25.5557,
+    "longitude":-48.5676
+  },
+ 
+  {
+    "key": "BRPET01",
+    "name": "BRPET01",
+    "latitude": -22.3617,
+    "longitude":-48.7098
+  },
+ 
+  {
+    "key": "BRROO02",
+    "name": "BRROO02",
+    "latitude": -16.3441,
+    "longitude":-54.6422
+  },
+ 
+  {
+    "key": "BRSTM01",
+    "name": "BRSTM01",
+    "latitude": -2.4186,
+    "longitude":-54.7264
+  },
+ 
+  {
+    "key": "BROPS02",
+    "name": "BROPS02",
+    "latitude": -11.7782,
+    "longitude":-55.4732
+  },
+ 
+  {
+    "key": "BRSOO02",
+    "name": "BRSOO02",
+    "latitude": -12.6015,
+    "longitude":-55.7492
+  },
+ 
+  {
+    "key": "BRURU01",
+    "name": "BRURU01",
+    "latitude": -14.5284,
+    "longitude":-49.1566
+  },
+ 
+  {
+    "key": "BRBDO01",
+    "name": "BRBDO01",
+    "latitude": -20.9530,
+    "longitude":-48.3741
+  },
+ 
+  {
+    "key": "BRLDM01",
+    "name": "BRLDM01",
+    "latitude": -12.1158,
+    "longitude":-45.8685
+  },
+ 
+  {
+    "key": "BRMAT01",
+    "name": "BRMAT01",
+    "latitude": -21.6381,
+    "longitude":-48.3535
+  },
+ 
+  {
+    "key": "BRNVC01",
+    "name": "BRNVC01",
+    "latitude": -18.6470,
+    "longitude":-40.4515
+  },
+ 
+  {
+    "key": "BRCSC01",
+    "name": "BRCSC01",
+    "latitude": -23.9633,
+    "longitude":-46.3229
+  },
+ 
+  {
+    "key": "BRSAO01",
+    "name": "BRSAO01",
+    "latitude": -23.5691,
+    "longitude":-46.6912
+  },
+ 
+  {
+    "key": "BRSSP01",
+    "name": "BRSSP01",
+    "latitude": -20.9475,
+    "longitude":-46.9355
+  },
+ 
+  {
+    "key": "BRSSP02",
+    "name": "BRSSP02",
+    "latitude": -22.1115,
+    "longitude":-47.7412
+  },
+ 
+  {
+    "key": "BRBOC01",
+    "name": "BRBOC01",
+    "latitude": -22.1115,
+    "longitude":-47.7412
+  },
+ 
+  {
+    "key": "BRBRR01",
+    "name": "BRBRR01",
+    "latitude": -20.1775,
+    "longitude":-47.3282
+  },
+ 
+  {
+    "key": "BRSML01",
+    "name": "BRSML01",
+    "latitude": -22.7567,
+    "longitude":-48.6154
+  },
+ 
+  {
+    "key": "BRCHA01",
+    "name": "BRCHA01",
+    "latitude": -22.0213,
+    "longitude":-49.5699
+  },
+ 
+  {
+    "key": "BRSDT02",
+    "name": "BRSDT02",
+    "latitude": -21.9360,
+    "longitude":-49.8068
+  },
+ 
+  {
+    "key": "BRGUN01",
+    "name": "BRGUN01",
+    "latitude": -20.7590,
+    "longitude":-50.8617
+  },
+ 
+  {
+    "key": "BRUDI02",
+    "name": "BRUDI02",
+    "latitude": -19.1145,
+    "longitude":-48.6329
+  },
+ 
+  {
+    "key": "BRLAZ01",
+    "name": "BRLAZ01",
+    "latitude": -20.6678,
+    "longitude":-47.3816
+  },
+ 
+  {
+    "key": "BRVGS01",
+    "name": "BRVGS01",
+    "latitude": -21.8657,
+    "longitude":-46.9550
+  },
+ 
+  {
+    "key": "BRLMR01",
+    "name": "BRLMR01",
+    "latitude": -20.3834,
+    "longitude":-47.4971
+  },
+ 
+  {
+    "key": "BRAGD01",
+    "name": "BRAGD01",
+    "latitude": -22.5564,
+    "longitude":-49.1416
+  },
+ 
+  {
+    "key": "BRMTE01",
+    "name": "BRMTE01",
+    "latitude": -18.9022,
+    "longitude":-48.9512
+  },
+ 
+  {
+    "key": "BRMOB02",
+    "name": "BRMOB02",
+    "latitude": -21.9869,
+    "longitude":-48.1896
+  },
+ 
+  {
+    "key": "BRMHO02",
+    "name": "BRMHO02",
+    "latitude": -22.9790,
+    "longitude":-48.6160
+  },
+ 
+  {
+    "key": "BRUDI03",
+    "name": "BRUDI03",
+    "latitude": -18.9990,
+    "longitude":-48.6107
+  },
+ 
+  {
+    "key": "BRPRI01",
+    "name": "BRPRI01",
+    "latitude": -22.4516,
+    "longitude":-49.5355
+  },
+ 
+  {
+    "key": "BRIAT01",
+    "name": "BRIAT01",
+    "latitude": -23.1570,
+    "longitude":-48.4802
+  },
+ 
+  {
+    "key": "BRIRP01",
+    "name": "BRIRP01",
+    "latitude": -20.0310,
+    "longitude":-47.5455
+  },
+ 
+  {
+    "key": "BRIAT02",
+    "name": "BRIAT02",
+    "latitude": -23.2009,
+    "longitude":-48.4729
+  },
+ 
+  {
+    "key": "BRPGU01",
+    "name": "BRPGU01",
+    "latitude": -20.1705,
+    "longitude":-47.2982
+  },
+ 
+  {
+    "key": "BRPJR01",
+    "name": "BRPJR01",
+    "latitude": -21.0427,
+    "longitude":-47.2804
+  },
+ 
+  {
+    "key": "BRMAM01",
+    "name": "BRMAM01",
+    "latitude": -18.9541,
+    "longitude":-48.7171
+  },
+ 
+  {
+    "key": "BRPJR02",
+    "name": "BRPJR02",
+    "latitude": -21.9902,
+    "longitude":-49.4680
+  },
+ 
+  {
+    "key": "BRRIA01",
+    "name": "BRRIA01",
+    "latitude": -20.7938,
+    "longitude":-49.0477
+  },
+ 
+  {
+    "key": "BRSDT01",
+    "name": "BRSDT01",
+    "latitude": -22.5023,
+    "longitude":-49.7723
+  },
+ 
+  {
+    "key": "BRSFO01",
+    "name": "BRSFO01",
+    "latitude": -21.7494,
+    "longitude":-47.7854
+  },
+ 
+  {
+    "key": "BRSJA01",
+    "name": "BRSJA01",
+    "latitude": -21.1092,
+    "longitude":-47.2659
+  },
+ 
+  {
+    "key": "BRSJQ01",
+    "name": "BRSJQ01",
+    "latitude": -22.0022,
+    "longitude":-49.6926
+  },
+ 
+  {
+    "key": "BRSJE01",
+    "name": "BRSJE01",
+    "latitude": -22.4697,
+    "longitude":-49.1434
+  },
+ 
+  {
+    "key": "BRSJI01",
+    "name": "BRSJI01",
+    "latitude": -22.1093,
+    "longitude":-49.5373
+  },
+ 
+  {
+    "key": "BRSPP03",
+    "name": "BRSPP03",
+    "latitude": -23.1392,
+    "longitude":-48.6515
+  },
+ 
+  {
+    "key": "BRSSB01",
+    "name": "BRSSB01",
+    "latitude": -21.9516,
+    "longitude":-49.7126
+  },
+ 
+  {
+    "key": "BRSHA01",
+    "name": "BRSHA01",
+    "latitude": -22.8493,
+    "longitude":-48.6013
+  },
+ 
+  {
+    "key": "BRABO01",
+    "name": "BRABO01",
+    "latitude": -14.0366,
+    "longitude":-52.2796
+  },
+ 
+  {
+    "key": "BRATG01",
+    "name": "BRATG01",
+    "latitude": -17.2451,
+    "longitude":-53.3248
+  },
+ 
+  {
+    "key": "BRAGR01",
+    "name": "BRAGR01",
+    "latitude": -16.9313,
+    "longitude":-53.5473
+  },
+ 
+  {
+    "key": "BRAPU01",
+    "name": "BRAPU01",
+    "latitude": -23.5574,
+    "longitude":-51.4778
+  },
+ 
+  {
+    "key": "BRAVA01",
+    "name": "BRAVA01",
+    "latitude": -23.0905,
+    "longitude":-48.9332
+  },
+ 
+  {
+    "key": "BRBEL01",
+    "name": "BRBEL01",
+    "latitude": -1.4456,
+    "longitude":-48.4839
+  },
+ 
+  {
+    "key": "BRNCA01",
+    "name": "BRNCA01",
+    "latitude": -16.9197,
+    "longitude":-51.8554
+  },
+ 
+  {
+    "key": "BRCVE01",
+    "name": "BRCVE01",
+    "latitude": -15.5509,
+    "longitude":-55.1671
+  },
+ 
+  {
+    "key": "BRCNR01",
+    "name": "BRCNR01",
+    "latitude": -13.5471,
+    "longitude":-52.2284
+  },
+ 
+  {
+    "key": "BRLDM02",
+    "name": "BRLDM02",
+    "latitude": -12.9390,
+    "longitude":-55.4388
+  },
+ 
+  {
+    "key": "BRCCV01",
+    "name": "BRCCV01",
+    "latitude": -24.9601,
+    "longitude":-53.4594
+  },
+ 
+  {
+    "key": "BRTLZ01",
+    "name": "BRTLZ01",
+    "latitude": -18.1661,
+    "longitude":-47.9336
+  },
+ 
+  {
+    "key": "BRCDC01",
+    "name": "BRCDC01",
+    "latitude": -18.3907,
+    "longitude":-52.6729
+  },
+ 
+  {
+    "key": "BRCFS01",
+    "name": "BRCFS01",
+    "latitude": -10.6146,
+    "longitude":-51.6121
+  },
+ 
+  {
+    "key": "BRCZB01",
+    "name": "BRCZB01",
+    "latitude": -26.3075,
+    "longitude":-48.8409
+  },
+ 
+  {
+    "key": "BRCUO01",
+    "name": "BRCUO01",
+    "latitude": -23.8628,
+    "longitude":-46.4160
+  },
+ 
+  {
+    "key": "BRCGB01",
+    "name": "BRCGB01",
+    "latitude": -15.5720,
+    "longitude":-56.0783
+  },
+ 
+  {
+    "key": "BRDOU01",
+    "name": "BRDOU01",
+    "latitude": -22.2240,
+    "longitude":-54.7868
+  },
+ 
+  {
+    "key": "BRIDN01",
+    "name": "BRIDN01",
+    "latitude": -12.2222,
+    "longitude":-56.1569
+  },
+ 
+  {
+    "key": "BRATI01",
+    "name": "BRATI01",
+    "latitude": -25.4448,
+    "longitude":-50.6198
+  },
+ 
+  {
+    "key": "BRITA01",
+    "name": "BRITA01",
+    "latitude": -16.5746,
+    "longitude":-39.5586
+  },
+ 
+  {
+    "key": "BRITR01",
+    "name": "BRITR01",
+    "latitude": -18.3578,
+    "longitude":-49.2194
+  },
+ 
+  {
+    "key": "BRJTI01",
+    "name": "BRJTI01",
+    "latitude": -17.9072,
+    "longitude":-51.6778
+  },
+ 
+  {
+    "key": "BRLRV01",
+    "name": "BRLRV01",
+    "latitude": -13.0790,
+    "longitude":-55.9361
+  },
+ 
+  {
+    "key": "BRMHU01",
+    "name": "BRMHU01",
+    "latitude": -20.2434,
+    "longitude":-42.0283
+  },
+ 
+  {
+    "key": "BRMGF01",
+    "name": "BRMGF01",
+    "latitude": -23.4181,
+    "longitude":-51.9271
+  },
+ 
+  {
+    "key": "BRMTP01",
+    "name": "BRMTP01",
+    "latitude": -20.3223,
+    "longitude":-42.2685
+  },
+ 
+  {
+    "key": "BRMNS01",
+    "name": "BRMNS01",
+    "latitude": -17.5743,
+    "longitude":-52.5653
+  },
+ 
+  {
+    "key": "BRMVU01",
+    "name": "BRMVU01",
+    "latitude": -17.4117,
+    "longitude":-51.1818
+  },
+ 
+  {
+    "key": "BRMHO01",
+    "name": "BRMHO01",
+    "latitude": -12.1158,
+    "longitude":-45.8685
+  },
+ 
+  {
+    "key": "BRNMU03",
+    "name": "BRNMU03",
+    "latitude": -13.7948,
+    "longitude":-56.0672
+  },
+ 
+  {
+    "key": "BRNMU01",
+    "name": "BRNMU01",
+    "latitude": -13.8237,
+    "longitude":-56.0790
+  },
+ 
+  {
+    "key": "BRPMI01",
+    "name": "BRPMI01",
+    "latitude": -25.4406,
+    "longitude":-49.9918
+  },
+ 
+  {
+    "key": "BRPPI01",
+    "name": "BRPPI01",
+    "latitude": -22.4209,
+    "longitude":-50.5723
+  },
+ 
+  {
+    "key": "BRPNG02",
+    "name": "BRPNG02",
+    "latitude": -25.5231,
+    "longitude":-48.5265
+  },
+ 
+  {
+    "key": "BRPNG01",
+    "name": "BRPNG01",
+    "latitude": -25.5039,
+    "longitude":-48.5066
+  },
+ 
+  {
+    "key": "BRPVI01",
+    "name": "BRPVI01",
+    "latitude": -23.0865,
+    "longitude":-52.4025
+  },
+ 
+  {
+    "key": "BRDMT01",
+    "name": "BRDMT01",
+    "latitude": -14.1515,
+    "longitude":-56.9254
+  },
+ 
+  {
+    "key": "BRPCO01",
+    "name": "BRPCO01",
+    "latitude": -18.9451,
+    "longitude":-47.0075
+  },
+ 
+  {
+    "key": "BRPNS01",
+    "name": "BRPNS01",
+    "latitude": -22.3617,
+    "longitude":-48.7098
+  },
+ 
+  {
+    "key": "BRPGI01",
+    "name": "BRPGI01",
+    "latitude": -17.9072,
+    "longitude":-51.6778
+  },
+ 
+  {
+    "key": "BRPVR01",
+    "name": "BRPVR01",
+    "latitude": -17.4394,
+    "longitude":-51.9079
+  },
+ 
+  {
+    "key": "BRPGZ01",
+    "name": "BRPGZ01",
+    "latitude": -25.2242,
+    "longitude":-50.0606
+  },
+ 
+  {
+    "key": "BRPIL01",
+    "name": "BRPIL01",
+    "latitude": -15.5731,
+    "longitude":-54.3156
+  },
+ 
+  {
+    "key": "BRQRC01",
+    "name": "BRQRC01",
+    "latitude": -12.5798,
+    "longitude":-52.2280
+  },
+ 
+  {
+    "key": "BRRVD01",
+    "name": "BRRVD01",
+    "latitude": -17.8323,
+    "longitude":-50.9540
+  },
+ 
+  {
+    "key": "BRSTS03",
+    "name": "BRSTS03",
+    "latitude": -23.8511,
+    "longitude":-46.3782
+  },
+ 
+  {
+    "key": "BRSTS02",
+    "name": "BRSTS02",
+    "latitude": -23.9799,
+    "longitude":-46.2925
+  },
+ 
+  {
+    "key": "BRSAO02",
+    "name": "BRSAO02",
+    "latitude": -23.5456,
+    "longitude":-46.6412
+  },
+ 
+  {
+    "key": "BRSSI01",
+    "name": "BRSSI01",
+    "latitude": -19.0528,
+    "longitude":-50.5118
+  },
+ 
+  {
+    "key": "BRSVA01",
+    "name": "BRSVA01",
+    "latitude": -16.6671,
+    "longitude":-48.6128
+  },
+ 
+  {
+    "key": "BROPS01",
+    "name": "BROPS01",
+    "latitude": -11.8474,
+    "longitude":-55.5036
+  },
+ 
+  {
+    "key": "BRSOO01",
+    "name": "BRSOO01",
+    "latitude": -12.9648,
+    "longitude":-55.4380
+  },
+ 
+  {
+    "key": "BRTBT01",
+    "name": "BRTBT01",
+    "latitude": -21.7378,
+    "longitude":-48.6881
+  },
+ 
+  {
+    "key": "BRTGQ01",
+    "name": "BRTGQ01",
+    "latitude": -14.6231,
+    "longitude":-57.4938
+  },
+ 
+  {
+    "key": "BRUDI01",
+    "name": "BRUDI01",
+    "latitude": -18.9312,
+    "longitude":-48.2860
+  },
+ 
+  {
+    "key": "BRUNI01",
+    "name": "BRUNI01",
+    "latitude": -16.3596,
+    "longitude":-46.8996
+  },
+ 
+  {
+    "key": "BRVAG01",
+    "name": "BRVAG01",
+    "latitude": -21.5905,
+    "longitude":-45.4878
+  },
+  
+  {
+    "key": "BRSSZ02",
+    "name": "BRSSZ02",
+    "latitude": -23.9799,
+    "longitude":-46.2926
+  },
+  {
+    "key": "BROPS01",
+    "name": "BROPS01",
+    "latitude": -11.8474,
+    "longitude":-55.5036
+  },
+  {
+    "key": "BRPGI01",
+    "name": "BRPGI01",
+    "latitude": -17.9072,
+    "longitude":-51.67786
+  },
+  {
+    "key": "BRNCA01",
+    "name": "BRNCA01",
+    "latitude": -16.9197,
+    "longitude":-51.8554
+  },
+  {
+    "key": "BRCVE01",
+    "name": "BRCVE01",
+    "latitude": -15.5509,
+    "longitude":-55.1671
+  },
+  {
+    "key": "BRTLZ02",
+    "name": "BRTLZ02",
+    "latitude": -18.1680,
+    "longitude":-47.9192
+  },
+  {
+    "key": "BRCFS02",
+    "name": "BRCFS02",
+    "latitude": -10.6424,
+    "longitude":-51.5701
+  },
+  {
+    "key": "BRCGB01",
+    "name": "BRCGB01",
+    "latitude": -15.5720,
+    "longitude":-56.0783
+  },
+  {
+    "key": "BREST01",
+    "name": "BREST01",
+    "latitude": -17.5622,
+    "longitude":-51.8866
+  },
+  {
+    "key": "BRSDT02",
+    "name": "BRSDT02",
+    "latitude": -21.9360,
+    "longitude":-49.8068
+  },
+  {
+    "key": "BRSOO01",
+    "name": "BRSOO01",
+    "latitude": -12.9648,
+    "longitude":-55.4380
+  },
+  {
+    "key": "BRUDI02",
+    "name": "BRUDI02",
+    "latitude": -19.1145,
+    "longitude":-48.6329
+  },
+  {
+    "key": "BRUDI03",
+    "name": "BRUDI03",
+    "latitude": -18.9990,
+    "longitude":-48.6107
+  },
+  {
+    "key": "BRIRP01",
+    "name": "BRIRP01",
+    "latitude": -20.0310,
+    "longitude":-47.5455
+  },
+  {
+    "key": "BRPGU01",
+    "name": "BRPGU01",
+    "latitude": -20.1705,
+    "longitude":-47.2982
+  },
+  {
+    "key": "BRSJQ01",
+    "name": "BRSJQ01",
+    "latitude": -22.0022,
+    "longitude":-49.6926
+  },
+  {
+    "key": "BRSSB01",
+    "name": "BRSSB01",
+    "latitude": -21.9516,
+    "longitude":-49.7126
+  },
+  {
+    "key": "BRMAT01",
+    "name": "BRMAT01",
+    "latitude": -21.6381,
+    "longitude":-48.3535
+  },
+  {
+    "key": "BRLMR01",
+    "name": "BRLMR01",
+    "latitude": -20.3834,
+    "longitude":-47.4971
+  },
+  {
+    "key": "BRPJR02",
+    "name": "BRPJR02",
+    "latitude": -21.9902,
+    "longitude":-49.4680
+  },
+  {
+    "key": "BRSJI01",
+    "name": "BRSJI01",
+    "latitude": -22.1093,
+    "longitude":-49.5373
+  },
+  {
+    "key": "BRURU01",
+    "name": "BRURU01",
+    "latitude": -14.5284,
+    "longitude":-49.1566
+  },
+  {
+    "key": "BRTBT01",
+    "name": "BRTBT01",
+    "latitude": -21.7378,
+    "longitude":-48.6881
+  },
+  {
+    "key": "BRPVI01",
+    "name": "BRPVI01",
+    "latitude": -23.0865,
+    "longitude":-52.4025
+  },
+  {
+    "key": "BRBOC01",
+    "name": "BRBOC01",
+    "latitude": -22.1115,
+    "longitude":-47.7412
+  },
+  {
+    "key": "BRSSP01",
+    "name": "BRSSP01",
+    "latitude": -20.9475,
+    "longitude":-46.9355
+  },
+  {
+    "key": "BRSSP02",
+    "name": "BRSSP02",
+    "latitude": -22.1115,
+    "longitude":-47.7412
+  },
+  {
+    "key": "BRSDT01",
+    "name": "BRSDT01",
+    "latitude": -22.5023,
+    "longitude":-49.7723
+  },
+  {
+    "key": "BRSPP03",
+    "name": "BRSPP03",
+    "latitude": -23.1392,
+    "longitude":-48.6515
+  },
+  {
+    "key": "BRPCO01",
+    "name": "BRPCO01",
+    "latitude": -18.9451,
+    "longitude":-47.0075
+  },
+  {
+    "key": "BRPGZ01",
+    "name": "BRPGZ01",
+    "latitude": -25.2242,
+    "longitude":-50.0606
+  },
+  {
+    "key": "BRMTP01",
+    "name": "BRMTP01",
+    "latitude": -20.3223,
+    "longitude":-42.2685
+  },
+  {
+    "key": "BRPNG01",
+    "name": "BRPNG01",
+    "latitude": -25.5039,
+    "longitude":-48.5066
+  },
+  {
+    "key": "BRPNS01",
+    "name": "BRPNS01",
+    "latitude": -22.3617,
+    "longitude":-48.7098
+  },
+  {
+    "key": "BRSML01",
+    "name": "BRSML01",
+    "latitude": -22.7567,
+    "longitude":-48.6154
+  },
+  {
+    "key": "BRAVA01",
+    "name": "BRAVA01",
+    "latitude": -23.0905,
+    "longitude":-48.9332
+  },
+  {
+    "key": "BRDOU01",
+    "name": "BRDOU01",
+    "latitude": -22.2240,
+    "longitude":-54.7868
+  },
+  {
+    "key": "BRMOB02",
+    "name": "BRMOB02",
+    "latitude": -21.9869,
+    "longitude":-48.1896
+  },
+  {
+    "key": "BRMHO02",
+    "name": "BRMHO02",
+    "latitude": -22.9790,
+    "longitude":-48.6160
+  },
+  {
+    "key": "BRIAT02",
+    "name": "BRIAT02",
+    "latitude": -23.2009,
+    "longitude":-48.4729
+  },
+  {
+    "key": "BRSJA01",
+    "name": "BRSJA01",
+    "latitude": -21.1092,
+    "longitude":-47.2659
+  },
+  {
+    "key": "BRSHA01",
+    "name": "BRSHA01",
+    "latitude": -22.8493,
+    "longitude":-48.6013
+  },
+  {
+    "key": "BRMGF01",
+    "name": "BRMGF01",
+    "latitude": -23.4181,
+    "longitude":-51.9271
+  },
+  {
+    "key": "BRSTS03",
+    "name": "BRSTS03",
+    "latitude": -23.8511,
+    "longitude":-46.3782
+  },
+  {
+    "key": "BRBDO01",
+    "name": "BRBDO01",
+    "latitude": -20.9530,
+    "longitude":-48.3741
+  },
+  {
+    "key": "BRAGD01",
+    "name": "BRAGD01",
+    "latitude": -22.5564,
+    "longitude":-49.1416
+  },
+  {
+    "key": "BRIAT01",
+    "name": "BRIAT01",
+    "latitude": -23.15702,
+    "longitude":-48.4802
+  },
+  {
+    "key": "BRPJR01",
+    "name": "BRPJR01",
+    "latitude": -21.0427,
+    "longitude":-47.2804
+  },
+  {
+    "key": "BRSJE01",
+    "name": "BRSJE01",
+    "latitude": -22.4697,
+    "longitude":-49.1434
+  }
+ ]
