@@ -1,0 +1,100 @@
+[
+  {
+    "key": "POP1-NEXUS",
+    "name": "POP1-NEXUS",
+    "latitude": -23.678150,
+    "longitude":-46.557708
+  },
+  
+  {
+    "key": "POP2-HU",
+    "name": "POP2-HU",
+    "latitude": -23.713124,
+    "longitude":-46.559099
+  },
+  
+  {
+    "key": "POP3-EDUCACAO",
+    "name": "POP3-EDUCACAO",
+    "latitude": -23.702475,
+    "longitude":-46.546967
+  },
+  
+  {
+    "key": "POP4-MUSSOLINI",
+    "name": "POP4-MUSSOLINI",
+    "latitude": -23.666475,
+    "longitude":-46.567854
+  },
+  
+  {
+    "key": "POP5-RUDGE",
+    "name": "POP5-RUDGE",
+    "latitude": -23.653185,
+    "longitude":-46.570999
+  },
+  
+  {
+    "key": "POP6-MARCHI",
+    "name": "POP6-MARCHI",
+    "latitude": -23.721302,
+    "longitude":-46.561171
+  },
+  
+  {
+    "key": "POP7-ASSUNCAO",
+    "name": "POP7-ASSUNCAO",
+    "latitude": -23.720881,
+    "longitude":-46.578926
+  },
+  
+  {
+    "key": "POP8-IDEPENDENCIA",
+    "name": "POP8-IDEPENDENCIA",
+    "latitude": -23.698560,
+    "longitude":-46.581210
+  },
+  
+  {
+    "key": "POP9-FERRAZOPOLIS",
+    "name": "POP9-FERRAZOPOLIS",
+    "latitude": -23.722956,
+    "longitude":-46.538805
+  },
+  
+  {
+    "key": "POP10-ALVARENGA",
+    "name": "POP10-ALVARENGA",
+    "latitude": -23.734060,
+    "longitude":-46.578018
+  },
+  
+  {
+    "key": "POP11-DEMARCHI",
+    "name": "POP11-DEMARCHI",
+    "latitude": -23.739893,
+    "longitude":-46.555924
+  },
+  
+  {
+    "key": "POP12-PAULICEIA",
+    "name": "POP12-PAULICEIA",
+    "latitude": -23.666000,
+    "longitude":-46.592541
+  },
+  
+  {
+    "key": "POP13-RIACHO",
+    "name": "POP13-RIACHO",
+    "latitude": -23.777789,
+    "longitude":-46.530441
+  },
+  
+  {
+    "key": "POP14-BATISTINI",
+    "name": "POP14-BATISTINI",
+    "latitude": -23.770466,
+    "longitude":-46.589952
+  },
+  
+]
