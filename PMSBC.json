@@ -1,13 +1,13 @@
 [
   {
-    "key": "SW-POP1_NEXUS",
+    "key": "POP1",
     "name": "POP1-NEXUS",
     "latitude": -23.678150,
     "longitude":-46.557708
   },
   
   {
-    "key": "POP2_HU_c9500",
+    "key": "POP2",
     "name": "POP2-HU",
     "latitude": -23.713124,
     "longitude":-46.559099
