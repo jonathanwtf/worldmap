@@ -1,882 +1,101 @@
 [
   {
-    "key": "POP NEXUS",
-    "name": "POP1-NEXUS",
+    "key": "SW-POP1_NEXUS",
+    "name": "SW-POP1_NEXUS",
     "latitude": -23.678150,
     "longitude":-46.557708
   },
  
   {
-    "key": "POP HU",
-    "name": "POP2-HU",
+    "key": "POP2_HU_c9500",
+    "name": "POP2_HU_c9500",
     "latitude": -23.713124,
     "longitude":-46.559099
   },
  
   {
-    "key": "RIO VERDE KOWALSKI",
-    "name": "RIO VERDE KOWALSKI",
-    "latitude": -17.775471,
-    "longitude":-50.889675
+    "key": "POP3_Core7500_Educ",
+    "name": "POP3-EDUCACAO",
+    "latitude": -23.702475,
+    "longitude":-46.546967
   },
- 
+  
   {
-    "key": "RONDONOPOLIS",
-    "name": "RONDONOPOLIS",
-    "latitude": -16.4603533,
-    "longitude":-54.6397099
+    "key": "POP4_Mussolini_4800G",
+    "name": "POP4-MUSSOLINI",
+    "latitude": -23.666475,
+    "longitude":-46.567854
   },
- 
+  
   {
-    "key": "SANTOS T30",
-    "name": "SANTOS T30",
-    "latitude": -23.962185,
-    "longitude":-46.304114
+    "key": "POP5_Rudge_4800G",
+    "name": "POP5-RUDGE",
+    "latitude": -23.653185,
+    "longitude":-46.570999
   },
- 
+  
   {
-    "key": "VARGINHA WAREHOUSE",
-    "name": "VARGINHA WAREHOUSE",
-    "latitude": -21.5565914,
-    "longitude":-45.4340674
+    "key": "POP6_Marchi_4800G",
+    "name": "POP6-MARCHI",
+    "latitude": -23.721302,
+    "longitude":-46.561171
   },
- 
+  
   {
-    "key": "AGUA BOA TRANSPORTES",
-    "name": "AGUA BOA TRANSPORTES",
-    "latitude": -14.0522968,
-    "longitude":-52.1617625
+    "key": "POP7_Assuncao_4800G",
+    "name": "POP7-ASSUNCAO",
+    "latitude": -23.720881,
+    "longitude":-46.578926
   },
- 
+  
   {
-    "key": "ARARAS",
-    "name": "ARARAS",
-    "latitude": -22.3569477,
-    "longitude":-47.3838889
+    "key": "POP8_Independencia_4800G",
+    "name": "POP8-IDEPENDENCIA",
+    "latitude": -23.698560,
+    "longitude":-46.581210
   },
- 
+  
   {
-    "key": "CASCAVEL TRANSPORTES",
-    "name": "CASCAVEL TRANSPORTES",
-    "latitude": -24.9554996,
-    "longitude":-53.4560544
+    "key": "POP9_Ferrazopolis_4800G",
+    "name": "POP9-FERRAZOPOLIS",
+    "latitude": -23.722956,
+    "longitude":-46.538805
   },
- 
+  
   {
-    "key": "CATALAO TRANSPORTES",
-    "name": "CATALAO TRANSPORTES",
-    "latitude": -18.1702546,
-    "longitude":-47.9447082
+    "key": "POP10_Alvarenga_4800G",
+    "name": "POP10-ALVARENGA",
+    "latitude": -23.734060,
+    "longitude":-46.578018
   },
- 
+  
   {
-    "key": "CONFRESA TRANSPORTES",
-    "name": "CONFRESA TRANSPORTES",
-    "latitude": -10.643695,
-    "longitude":-51.569873
+    "key": "POP11_4800G",
+    "name": "POP11-DEMARCHI",
+    "latitude": -23.739893,
+    "longitude":-46.555924
   },
- 
+  
   {
-    "key": "CONFRESA",
-    "name": "CONFRESA",
-    "latitude": -10.643695,
-    "longitude":-51.569873
+    "key": "POP12_PAULICEIA_4800G",
+    "name": "POP12-PAULICEIA",
+    "latitude": -23.666000,
+    "longitude":-46.592541
   },
- 
+  
   {
-    "key": "ITUMBIARA TRANSPORTES",
-    "name": "ITUMBIARA TRANSPORTES",
-    "latitude": -18.4135862,
-    "longitude":-49.2172596
+    "key": "POP13_Riacho_4800G",
+    "name": "POP13-RIACHO",
+    "latitude": -23.777789,
+    "longitude":-46.530441
   },
- 
+  
   {
-    "key": "JATAI TRANSPORTES",
-    "name": "JATAI TRANSPORTES",
-    "latitude": -17.8783829,
-    "longitude":-51.7204241
+    "key": "POP14_BATISTINI_4800G",
+    "name": "POP14-BATISTINI",
+    "latitude": -23.770466,
+    "longitude":-46.589952
   },
- 
-  {
-    "key": "MARINGA TRANSPORTES",
-    "name": "MARINGA TRANSPORTES",
-    "latitude": -23.425269,
-    "longitude":-51.9382078
-  },
- 
-  {
-    "key": "NOVA MUTUM TRANSPORTES",
-    "name": "NOVA MUTUM TRANSPORTES",
-    "latitude": -19.8112325,
-    "longitude":-41.4453062
-  },
- 
-  {
-    "key": "PARANAGUA-TRASPORTES",
-    "name": "PARANAGUA-TRASPORTES",
-    "latitude": -25.5557,
-    "longitude":-48.5676
-  },
- 
-  {
-    "key": "PELOTAS",
-    "name": "PELOTAS",
-    "latitude": -31.7699736,
-    "longitude":-52.3410161
-  },
- 
-  {
-    "key": "RONDONOPOLIS TRANSPORTES",
-    "name": "RONDONOPOLIS TRANSPORTES",
-    "latitude": -16.4603533,
-    "longitude":-54.6397099
-  },
- 
-  {
-    "key": "SANTAREM",
-    "name": "SANTAREM",
-    "latitude": -2.438489,
-    "longitude":-54.699611
-  },
- 
-  {
-    "key": "SINOP TRANSPORTES",
-    "name": "SINOP TRANSPORTES",
-    "latitude": -11.8501602,
-    "longitude":-55.4924089
-  },
- 
-  {
-    "key": "SORRISO TRANPORTES",
-    "name": "SORRISO TRANPORTES",
-    "latitude": -12.5444887,
-    "longitude":-55.7233972
-  },
- 
-  {
-    "key": " URUACU",
-    "name": " URUACU",
-    "latitude": -14.5244164,
-    "longitude":-49.1510022
-  },
+  
+]
 
-  {
-    "key": "LUIS EDUARDO MAGALHAES",
-    "name": "LUIS EDUARDO MAGALHAES",
-    "latitude": -12.0869117,
-    "longitude":-45.7834163
-  },
- 
-  {
-    "key": "NOVA  VENECIA",
-    "name": "NOVA  VENECIA",
-    "latitude": -18.7063456,
-    "longitude":-40.3969786
-  },
- 
-  {
-    "key": "BRCSC01",
-    "name": "BRCSC01",
-    "latitude": -23.9633,
-    "longitude":-46.3229
-  },
- 
-  {
-    "key": "BRSAO01",
-    "name": "BRSAO01",
-    "latitude": -23.5691,
-    "longitude":-46.6912
-  },
- 
-  {
-    "key": "FAZENDA BOM RETIRO",
-    "name": "FAZENDA BOM RETIRO",
-    "latitude": -23.5271385,
-    "longitude":-46.636834846501365
-  },
- 
-  {
-    "key": "FAZENDA CACHOERINHA",
-    "name": "FAZENDA CACHOERINHA",
-    "latitude": -22.0213,
-    "longitude":-49.5699
-  },
- 
-  {
-    "key": "FAZENDA CAMPOS NOVOS",
-    "name": "FAZENDA CAMPOS NOVOS",
-    "latitude": -27.3962904,
-    "longitude":-51.2224397
-  },
- 
-  {
-    "key": "FAZENDA GRAUNA",
-    "name": "FAZENDA GRAUNA",
-    "latitude": -22.2584838,
-    "longitude":-47.8033637
-  },
- 
-  {
-    "key": "FAZENDA LAGEADINHO",
-    "name": "FAZENDA LAGEADINHO",
-    "latitude": -19.1145,
-    "longitude":-48.6329
-  },
- 
-  {
-    "key": "FAZENDA LAGOA AZUL",
-    "name": "FAZENDA LAGOA AZUL",
-    "latitude": -21.6365673,
-    "longitude":-50.825193838888886
-  },
- 
-  {
-    "key": "FAZENDA LAGOA FORMOSA",
-    "name": "FAZENDA LAGOA FORMOSA",
-    "latitude": -18.7741896,
-    "longitude":-46.4082511
-  },
- 
-  {
-    "key": "FAZENDA LIMEIRA",
-    "name": "FAZENDA LIMEIRA",
-    "latitude": -22.5615068,
-    "longitude":-47.401766
-  },
- 
-  {
-    "key": "FAZENDA MARIA SOPHIA",
-    "name": "FAZENDA MARIA SOPHIA",
-    "latitude": -22.4719836,
-    "longitude":-48.9884476
-  },
- 
-  {
-    "key": "FAZENDA MONTE ALEGRE",
-    "name": "FAZENDA MONTE ALEGRE",
-    "latitude": -21.6915609,
-    "longitude":-45.2571486
-  },
- 
-  {
-    "key": "FAZENDA MONTE BELO",
-    "name": "FAZENDA MONTE BELO",
-    "latitude": -21.9888552,
-    "longitude":-48.1965495
-  },
- 
-  {
-    "key": "FAZENDA MORRINHOS",
-    "name": "FAZENDA MORRINHOS",
-    "latitude": -17.7333689,
-    "longitude":-49.105908
-  },
- 
-  {
-    "key": "FAZENDA N.S. DE LOURDES",
-    "name": "FAZENDA N.S. DE LOURDES",
-    "latitude": -21.7704781,
-    "longitude":-43.3286484
-  },
- 
-  {
-    "key": "FAZENDA PARAISO",
-    "name": "FAZENDA PARAISO",
-    "latitude": -21.015911,
-    "longitude":-48.776105
-  },
- 
-  {
-    "key": "FAZENDA PEDRA BRANCA",
-    "name": "FAZENDA PEDRA BRANCA",
-    "latitude": -21.9176456,
-    "longitude":-48.4015822
-  },
- 
-  {
-    "key": "FAZENDA PORANGABA",
-    "name": "FAZENDA PORANGABA",
-    "latitude": -20.0411471,
-    "longitude":-47.7477444
-  },
- 
-  {
-    "key": "FAZENDA RINCAO DOS COXOS",
-    "name": "FAZENDA RINCAO DOS COXOS",
-    "latitude": -23.5449384,
-    "longitude":-48.0281927
-  },
- 
-  {
-    "key": "FAZENDA SANTA ANGELA",
-    "name": "FAZENDA SANTA ANGELA",
-    "latitude": -10.791491,
-    "longitude":-55.17883
-  },
- 
-  {
-    "key": "FAZENDA SANTA ELIZA",
-    "name": "FAZENDA SANTA ELIZA",
-    "latitude": -23.529233,
-    "longitude":-53.4633
-  },
- 
-  {
-    "key": "FAZENDA SANTA FE",
-    "name": "FAZENDA SANTA FE",
-    "latitude": -19.5669743,
-    "longitude":-47.7642364
-  },
- 
-
-  {
-    "key": "FAZENDA SANTA MARIA",
-    "name": "FAZENDA SANTA MARIA",
-    "latitude": -23.6481368,
-    "longitude":-46.5509894
-  },
- 
-  {
-    "key": "FAZENDA SANTO ANTONIO BARRA NOVA",
-    "name": "FAZENDA SANTO ANTONIO BARRA NOVA",
-    "latitude": -22.745286,
-    "longitude":-49.742829
-  },
- 
-  {
-    "key": " FAZENDA SAO FRANCISCO",
-    "name": "FAZENDA SAO FRANCISCO",
-    "latitude": -20.3604438,
-    "longitude":-50.696603
-  },
- 
-  {
-    "key": "FAZENDA SAO JOAO",
-    "name": "FAZENDA SAO JOAO",
-    "latitude": -23.6012414,
-    "longitude":-46.1200141
-  },
- 
-  {
-    "key": "FAZENDA SAO JOAQUIM",
-    "name": "FAZENDA SAO JOAQUIM",
-    "latitude": -22.72185235,
-    "longitude":-47.19496669258073
-  },
- 
-  {
-    "key": "FAZENDA SAO JOSE BARREIRO",
-    "name": "FAZENDA SAO JOSE BARREIRO",
-    "latitude": -22.6452376,
-    "longitude":-44.5805246
-  },
- 
-  {
-    "key": "FAZENDA SAO PEDRO PARAISO",
-    "name": "FAZENDA SAO PEDRO PARAISO",
-    "latitude": -3.1409698,
-    "longitude":-56.8402399
-  },
- 
-  {
-    "key": "FAZENDA SAO SEBASTIAO",
-    "name": "FAZENDA SAO SEBASTIAO",
-    "latitude": -23.8027866,
-    "longitude":-45.4070527
-  },
- 
-  {
-    "key": "FAZENDA SERRINHA",
-    "name": "FAZENDA SERRINHA",
-    "latitude": -22.7300165,
-    "longitude":-46.5389657
-  },
- 
-  {
-    "key": "AGUA BOA",
-    "name": "AGUA BOA",
-    "latitude": -14.0522968,
-    "longitude":-52.1617625
-  },
- 
-  {
-    "key": "ALTO ARAGUAIA",
-    "name": "ALTO ARAGUAIA",
-    "latitude": -17.3156528,
-    "longitude":-53.2169365
-  },
- 
-  {
-    "key": "ALTO GARÇAS",
-    "name": "ALTO GARÇAS",
-    "latitude": -16.9469683,
-    "longitude":-53.529427
-  },
- 
-  {
-    "key": "APUCARANA",
-    "name": "APUCARANA",
-    "latitude": -23.5525327,
-    "longitude":-51.4610764
-  },
- 
-  {
-    "key": "AVARE",
-    "name": "AVARE",
-    "latitude": -23.1045215,
-    "longitude":-48.9259103
-  },
- 
-  {
-    "key": "BELEM",
-    "name": "BELEM",
-    "latitude": -1.45056,
-    "longitude":-48.4682453
-  },
- 
-  {
-    "key": "CAIAPONIA",
-    "name": "CAIAPONIA",
-    "latitude": -16.9538779,
-    "longitude":-51.8090761
-  },
- 
-  {
-    "key": "CAMPO VERDE",
-    "name": "CAMPO VERDE",
-    "latitude": -15.5430787,
-    "longitude":-55.1590511
-  },
- 
-  {
-    "key": "CANARANA",
-    "name": "CANARANA",
-    "latitude": -13.5564602,
-    "longitude":-52.2691167
-  },
- 
-  {
-    "key": "CARAVAGIO",
-    "name": "CARAVAGIO",
-    "latitude": -29.8966894,
-    "longitude":-50.2505208
-  },
- 
-  {
-    "key": "CASCAVEL",
-    "name": "CASCAVEL",
-    "latitude": -24.9554996,
-    "longitude":-53.4560544
-  },
- 
-  {
-    "key": "CATALAO",
-    "name": "CATALAO",
-    "latitude": -18.1702546,
-    "longitude":-47.9447082
-  },
- 
-  {
-    "key": "CHAPADAO DO CEU",
-    "name": "CHAPADAO DO CEU",
-    "latitude": -18.3951972,
-    "longitude":-52.6670783
-  },
- 
-  {
-    "key": "CRUZ ALTA",
-    "name": "CRUZ ALTA",
-    "latitude": -28.645056,
-    "longitude":-53.6058047
-  },
- 
-  {
-    "key": "CUBATAO",
-    "name": "CUBATAO",
-    "latitude": -23.8857982,
-    "longitude":-46.4241869
-  },
- 
-  {
-    "key": "CUIABA",
-    "name": "CUIABA",
-    "latitude": -15.5986686,
-    "longitude":-56.0991301
-  },
- 
-  {
-    "key": "DOURADOS",
-    "name": "DOURADOS",
-    "latitude": -22.2206145,
-    "longitude":-54.812208
-  },
- 
-  {
-    "key": "IPIRANGA DO NORTE",
-    "name": "IPIRANGA DO NORTE",
-    "latitude": -12.2408004,
-    "longitude":-56.1531011
-  },
- 
-  {
-    "key": "IRATI",
-    "name": "IRATI",
-    "latitude": -25.469663,
-    "longitude":-50.649287
-  },
- 
-  {
-    "key": "ITABELA",
-    "name": "ITABELA",
-    "latitude": -16.5743392,
-    "longitude":-39.561961
-  },
- 
-  {
-    "key": "ITUMBIARA",
-    "name": "ITUMBIARA",
-    "latitude": -18.4135862,
-    "longitude":-49.2172596
-  },
- 
-  {
-    "key": "JATAI",
-    "name": "JATAI",
-    "latitude": -17.8783829,
-    "longitude":-51.7204241
-  },
- 
-  {
-    "key": "LUCAS DO RIO VERDE",
-    "name": "LUCAS DO RIO VERDE",
-    "latitude": -13.0655935,
-    "longitude":-55.9198356
-  },
- 
-  {
-    "key": "MANHUACU",
-    "name": "MANHUACU",
-    "latitude": -20.2574434,
-    "longitude":-42.0340769
-  },
- 
-  {
-    "key": "MARINGA",
-    "name": "MARINGA",
-    "latitude": -23.425269,
-    "longitude":-51.9382078
-  },
- 
-  {
-    "key": "MINEIROS",
-    "name": "MINEIROS",
-    "latitude": -17.5653879,
-    "longitude":-52.5536721
-  },
- 
-  {
-    "key": "MONTIVIDIU",
-    "name": "MONTIVIDIU",
-    "latitude": -17.4439339,
-    "longitude":-51.172815
-  },
- 
-  {
-    "key": "MORRINHOS",
-    "name": "MORRINHOS",
-    "latitude": -17.7333689,
-    "longitude":-49.105908
-  },
- 
-  {
-    "key": "NOVA MUTUM FERTILIZER",
-    "name": "NOVA MUTUM FERTILIZER",
-    "latitude": -13.8255015,
-    "longitude":-56.0849262
-  },
- 
-  {
-    "key": "NOVA MUTUM OILSEEDS",
-    "name": "NOVA MUTUM OILSEEDS",
-    "latitude": -13.8255015,
-    "longitude":-56.0849262
-  },
- 
-  {
-    "key": "PALMEIRA",
-    "name": "PALMEIRA",
-    "latitude": -25.4269718,
-    "longitude":-49.9987787
-  },
- 
-  {
-    "key": "PARAGUACU PAULISTA",
-    "name": "PARAGUACU PAULISTA",
-    "latitude": -22.4203497,
-    "longitude":-50.5792099
-  },
- 
-  {
-    "key": "PARANAGUA FERTILIZER",
-    "name": "PARANAGUA FERTILIZER",
-    "latitude": -25.5121904,
-    "longitude":-48.5251854
-  },
- 
-  {
-    "key": "PARANAGUA OILSEEDS",
-    "name": "PARANAGUA OILSEEDS",
-    "latitude": -25.5121904,
-    "longitude":-48.5251854
-  },
- 
-  {
-    "key": "PARANAVAI",
-    "name": "PARANAVAI",
-    "latitude": -23.08165,
-    "longitude":-52.461724
-  },
- 
-  {
-    "key": "PARECIS",
-    "name": "PARECIS",
-    "latitude": -14.156154,
-    "longitude":-56.935025
-  },
- 
-  {
-    "key": "PATROCINIO",
-    "name": "PATROCINIO",
-    "latitude": -18.9408294,
-    "longitude":-46.9926624
-  },
- 
-  {
-    "key": "PEDERNEIRAS",
-    "name": "PEDERNEIRAS",
-    "latitude": -22.351086,
-    "longitude":-48.778113
-  },
- 
-  {
-    "key": "PEROLANDIA",
-    "name": "PEROLANDIA",
-    "latitude": -17.5269378,
-    "longitude":-52.0624546
-  },
- 
-  {
-    "key": "PLANALTO VERDE",
-    "name": "PLANALTO VERDE",
-    "latitude": -17.3328599,
-    "longitude":-51.5379883
-  },
- 
-  {
-    "key": "PONTA GROSSA",
-    "name": "PONTA GROSSA",
-    "latitude": -25.0891685,
-    "longitude":-50.1601812
-  },
- 
-  {
-    "key": "PRIMAVERA DO LESTE",
-    "name": "PRIMAVERA DO LESTE",
-    "latitude": -15.5614127,
-    "longitude":-54.2993946
-  },
- 
-  {
-    "key": "QUERENCIA",
-    "name": "QUERENCIA",
-    "latitude": -12.5944625,
-    "longitude":-52.2088505
-  },
- 
-  {
-    "key": "RIO VERDE OILSEEDS",
-    "name": "RIO VERDE OILSEEDS",
-    "latitude": -17.7921255,
-    "longitude":-50.9191209
-  },
- 
-  {
-    "key": "BRSTS02",
-    "name": "BRSTS02",
-    "latitude": -23.9799,
-    "longitude":-46.2925
-  },
- 
-  {
-    "key": "SERVICE DESK ALGAR",
-    "name": "SERVICE DESK ALGAR",
-    "latitude": -23.5440945,
-    "longitude":-46.642665
-  },
- 
-  {
-    "key": "SAO SIMAO",
-    "name": "SAO SIMAO",
-    "latitude": -19.0125966,
-    "longitude":-50.6768787
-  },
- 
-  {
-    "key": "SILVANIA",
-    "name": "SILVANIA",
-    "latitude": -16.6599718,
-    "longitude":-48.608326
-  },
- 
-  {
-    "key": "SINOP",
-    "name": "SINOP",
-    "latitude": -11.8508224,
-    "longitude":-55.5175957
-  },
- 
-  {
-    "key": "SORRISO",
-    "name": "SORRISO",
-    "latitude": -12.5444887,
-    "longitude":-55.7233972
-  },
- 
-  {
-    "key": "TABATINGA",
-    "name": "TABATINGA",
-    "latitude": -21.7373768,
-    "longitude":-48.6880522
-  },
- 
-  {
-    "key": " TANGARA DA SERRA",
-    "name": "TANGARA DA SERRA",
-    "latitude": -14.6213903,
-    "longitude":-57.4907268
-  },
- 
-  {
-    "key": "UBERLANDIA",
-    "name": "UBERLANDIA",
-    "latitude": -18.9188041,
-    "longitude":-48.2767837
-  },
- 
-  {
-    "key": "UNAI",
-    "name": "UNAI",
-    "latitude": -16.3628767,
-    "longitude":-46.892413
-  },
- 
-  {
-    "key": "VARGINHA OFFICE",
-    "name": "VARGINHA OFFICE",
-    "latitude": -21.5905,
-    "longitude":-45.4878
-  },
-  
-  {
-    "key": "SANTOS TES",
-    "name": "SANTOS TES",
-    "latitude": -23.979901,
-    "longitude":-46.291923
-  },
-
-  {
-    "key": "CATALAO TRANSPORTES",
-    "name": "CATALAO TRANSPORTES",
-    "latitude": -18.1702546,
-    "longitude":-47.9447082
-  },
- 
- 
-  {
-    "key": "ESTANCIA",
-    "name": "ESTANCIA",
-    "latitude": -17.5664689,
-    "longitude":-51.8818446
-  },
-  {
-    "key": "FAZENDA LAGEADINHO",
-    "name": "FAZENDA LAGEADINHO",
-    "latitude": -29.5866052,
-    "longitude":-53.9665469
-  },
-  {
-    "key": "SANTOS CSC",
-    "name": "SANTOS CSC",
-    "latitude": -23.965439,
-    "longitude":-46.323064
-  },
-  {
-    "key": "MATAO",
-    "name": "MATAO",
-    "latitude": -21.6033611,
-    "longitude":-48.3660603
-  },
-  {
-    "key": "FAZENDA SANTA MADALENA",
-    "name": "FAZENDA SANTA MADALENA",
-    "latitude": -21.1350092,
-    "longitude":-41.0599405
-  },
-  {
-    "key": "URUACU",
-    "name": "URUACU",
-    "latitude": -14.5244164,
-    "longitude":-49.1510022
-  },
-  {
-    "key": "FAZENDA BOCAINA",
-    "name": "FAZENDA BOCAINA",
-    "latitude": -22.1421831,
-    "longitude":-48.522276
-  },
-  {
-    "key": "FAZENDA AGUA VERMELHA",
-    "name": "FAZENDA AGUA VERMELHA",
-    "latitude": -15.7469091,
-    "longitude":-41.4601975
-  },
-  {
-    "key": "FAZENDA ANGOLA",
-    "name": "FAZENDA ANGOLA",
-    "latitude": -19.9601244,
-    "longitude":-44.2020531
-  },
-  
-  {
-    "key": "MATIPO",
-    "name": "MATIPO",
-    "latitude": -20.2896695,
-    "longitude":-42.3426599
-  },
-  
-  {
-    "key": "FAZENDA BONIN",
-    "name": "FAZENDA BONIN",
-    "latitude": -23.474856,
-    "longitude":-46.611427
-  },
-  {
-    "key": "SANTOS RODOPARK",
-    "name": "SANTOS RODOPARK",
-    "latitude": -23.962185,
-    "longitude":-46.304114
-  },
-  {
-    "key": "BEBEDOURO",
-    "name": "BEBEDOURO",
-    "latitude": -20.949077,
-    "longitude":-48.479083
-  },
-  
-  {
-    "key": "FAZENDA SAO JOSE",
-    "name": "FAZENDA SAO JOSE",
-    "latitude": -23.1245289,
-    "longitude":-48.9433968
-  }
- ]
