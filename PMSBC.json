@@ -97,5 +97,106 @@
     "longitude":-46.589952
   },
   
-]
+  {
+    "key": "SANTOS TES",
+    "name": "SANTOS TES",
+    "latitude": -23.979901,
+    "longitude":-46.291923
+  },
 
+  {
+    "key": "CATALAO TRANSPORTES",
+    "name": "CATALAO TRANSPORTES",
+    "latitude": -18.1702546,
+    "longitude":-47.9447082
+  },
+ 
+ 
+  {
+    "key": "ESTANCIA",
+    "name": "ESTANCIA",
+    "latitude": -17.5664689,
+    "longitude":-51.8818446
+  },
+  {
+    "key": "FAZENDA LAGEADINHO",
+    "name": "FAZENDA LAGEADINHO",
+    "latitude": -29.5866052,
+    "longitude":-53.9665469
+  },
+  {
+    "key": "SANTOS CSC",
+    "name": "SANTOS CSC",
+    "latitude": -23.965439,
+    "longitude":-46.323064
+  },
+  {
+    "key": "MATAO",
+    "name": "MATAO",
+    "latitude": -21.6033611,
+    "longitude":-48.3660603
+  },
+  {
+    "key": "FAZENDA SANTA MADALENA",
+    "name": "FAZENDA SANTA MADALENA",
+    "latitude": -21.1350092,
+    "longitude":-41.0599405
+  },
+  {
+    "key": "URUACU",
+    "name": "URUACU",
+    "latitude": -14.5244164,
+    "longitude":-49.1510022
+  },
+  {
+    "key": "FAZENDA BOCAINA",
+    "name": "FAZENDA BOCAINA",
+    "latitude": -22.1421831,
+    "longitude":-48.522276
+  },
+  {
+    "key": "FAZENDA AGUA VERMELHA",
+    "name": "FAZENDA AGUA VERMELHA",
+    "latitude": -15.7469091,
+    "longitude":-41.4601975
+  },
+  {
+    "key": "FAZENDA ANGOLA",
+    "name": "FAZENDA ANGOLA",
+    "latitude": -19.9601244,
+    "longitude":-44.2020531
+  },
+  
+  {
+    "key": "MATIPO",
+    "name": "MATIPO",
+    "latitude": -20.2896695,
+    "longitude":-42.3426599
+  },
+  
+  {
+    "key": "FAZENDA BONIN",
+    "name": "FAZENDA BONIN",
+    "latitude": -23.474856,
+    "longitude":-46.611427
+  },
+  {
+    "key": "SANTOS RODOPARK",
+    "name": "SANTOS RODOPARK",
+    "latitude": -23.962185,
+    "longitude":-46.304114
+  },
+  {
+    "key": "BEBEDOURO",
+    "name": "BEBEDOURO",
+    "latitude": -20.949077,
+    "longitude":-48.479083
+  },
+  
+  {
+    "key": "FAZENDA SAO JOSE",
+    "name": "FAZENDA SAO JOSE",
+    "latitude": -23.1245289,
+    "longitude":-48.9433968
+  }
+ ]
