@@ -1,119 +1,101 @@
 [
-  {
-    "key": "POP NEXUS",
+{
+    "key": "SW-POP1_NEXUS",
     "name": "POP1-NEXUS",
     "latitude": -23.678150,
     "longitude":-46.557708
   },
- 
+  
   {
-    "key": "POP HU",
+    "key": "POP2_HU_c9500",
     "name": "POP2-HU",
     "latitude": -23.713124,
     "longitude":-46.559099
   },
- 
+  
   {
     "key": "POP3_Core7500_Educ",
     "name": "POP3-EDUCACAO",
     "latitude": -23.702475,
     "longitude":-46.546967
   },
- 
+  
   {
-    "key": "POP MUSSOLINI",
+    "key": "POP4_Mussolini_4800G",
     "name": "POP4-MUSSOLINI",
     "latitude": -23.666475,
     "longitude":-46.567854
   },
- 
+  
   {
-    "key": "POP RUDGE",
+    "key": "POP5_Rudge_4800G",
     "name": "POP5-RUDGE",
     "latitude": -23.653185,
     "longitude":-46.570999
   },
   
   {
-    "key": "POP MARCHI",
+    "key": "POP6_Marchi_4800G",
     "name": "POP6-MARCHI",
     "latitude": -23.721302,
     "longitude":-46.561171
   },
   
   {
-    "key": "POP ASSUNCAO",
+    "key": "POP7_Assuncao_4800G",
     "name": "POP7-ASSUNCAO",
     "latitude": -23.720881,
     "longitude":-46.578926
   },
   
   {
-    "key": "POP IDEPENDENCIA",
+    "key": "POP8_Independencia_4800G",
     "name": "POP8-IDEPENDENCIA",
     "latitude": -23.698560,
     "longitude":-46.581210
   },
   
   {
-    "key": "POP FERRAZOPOLIS",
+    "key": "POP9_Ferrazopolis_4800G",
     "name": "POP9-FERRAZOPOLIS",
     "latitude": -23.722956,
     "longitude":-46.538805
   },
   
   {
-    "key": "POP ALVARENGA",
+    "key": "POP10_Alvarenga_4800G",
     "name": "POP10-ALVARENGA",
     "latitude": -23.734060,
     "longitude":-46.578018
   },
   
   {
-    "key": "POP DEMARCHI",
+    "key": "POP11_4800G",
     "name": "POP11-DEMARCHI",
     "latitude": -23.739893,
     "longitude":-46.555924
   },
   
   {
-    "key": "POP PAULICEIA",
+    "key": "POP12_PAULICEIA_4800G",
     "name": "POP12-PAULICEIA",
     "latitude": -23.666000,
     "longitude":-46.592541
   },
   
   {
-    "key": "POP RIACHO",
+    "key": "POP13_Riacho_4800G",
     "name": "POP13-RIACHO",
     "latitude": -23.777789,
     "longitude":-46.530441
   },
   
   {
-    "key": "POP BATISTINI",
+    "key": "POP14_BATISTINI_4800G",
     "name": "POP14-BATISTINI",
     "latitude": -23.770466,
     "longitude":-46.589952
   },
-  {
-    "key": "SANTOS RODOPARK",
-    "name": "SANTOS RODOPARK",
-    "latitude": -23.962185,
-    "longitude":-46.304114
-  },
-  {
-    "key": "BEBEDOURO",
-    "name": "BEBEDOURO",
-    "latitude": -20.949077,
-    "longitude":-48.479083
-  },
   
-  {
-    "key": "FAZENDA SAO JOSE",
-    "name": "FAZENDA SAO JOSE",
-    "latitude": -23.1245289,
-    "longitude":-48.9433968
-  }
  ]
 
