@@ -1,5 +1,5 @@
 [
-{
+  {
     "key": "SW-POP1_NEXUS",
     "name": "POP1-NEXUS",
     "latitude": -23.678150,
@@ -96,6 +96,25 @@
     "latitude": -23.770466,
     "longitude":-46.589952
   },
+    
+  {
+    "key": "SANTOS RODOPARK",
+    "name": "SANTOS RODOPARK",
+    "latitude": -23.962185,
+    "longitude":-46.304114
+  },
+  {
+    "key": "BEBEDOURO",
+    "name": "BEBEDOURO",
+    "latitude": -20.949077,
+    "longitude":-48.479083
+  },
   
+  {
+    "key": "FAZENDA SAO JOSE",
+    "name": "FAZENDA SAO JOSE",
+    "latitude": -23.1245289,
+    "longitude":-48.9433968
+  }
  ]
 
