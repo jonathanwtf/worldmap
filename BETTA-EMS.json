@@ -1,0 +1,78 @@
+[
+  {
+    "key": "EMS HORTOLANDIA FW",
+    "name": "E.M.S - Hortolândia",
+    "latitude": -22.895208,
+    "longitude":-47.190447
+  },
+  
+  {
+    "key": "EMS BRASILIA FW",
+    "name": "E.M.S Brasilia",
+    "latitude": -16.042111,
+    "longitude":-47.958830
+  },
+  
+  {
+    "key": "EMS LEGRAND FW",
+    "name": "LEGRAND Campinas",
+    "latitude": -22.898902,
+    "longitude":-47.048061
+  },
+  
+  {
+    "key": "EMS SNELL LOG FW",
+    "name": "SNELLOG Jaguariuna",
+    "latitude": -22.722678,
+    "longitude":-47.025170
+  },
+  
+  {
+    "key": "EMS NOVAMED FW",
+    "name": "NOVAMED Manaus",
+    "latitude": -2.928951,
+    "longitude":-60.008140
+  },
+  
+  {
+    "key": "EMS NSC FLORIANOPOLIS FW",
+    "name": "NSC Florianopolis",
+    "latitude": -27.589619,
+    "longitude":-48.534386
+  },
+  
+  {
+    "key": "EMS ULTRAX FW",
+    "name": "UNIDI (ULTRAX)",
+    "latitude": -20.802660,
+    "longitude":-49.387597
+  },
+  
+  {
+    "key": "EMS MULTILAB FW",
+    "name": "MULTILAB",
+    "latitude": -29.971589,
+    "longitude":-51.707602
+  },
+  
+  {
+    "key": "EMS ADS FW",
+    "name": "ADS",
+    "latitude": -32.037086,
+    "longitude":-52.098783
+  },
+  
+  {
+    "key": "EMS NSC BLUMENAU FW",
+    "name": "NSC Blumenau",
+    "latitude": -26.917422,
+    "longitude":-49.068582
+  },
+  
+  {
+    "key": "EMS NSC JOINVILLE FW",
+    "name": "NSC Joinvile",
+    "latitude": -26.295584,
+    "longitude":-48.835988
+  }
+]
