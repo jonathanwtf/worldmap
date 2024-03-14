@@ -1,100 +1,106 @@
 [
   {
-    "key": "SW-POP1_NEXUS",
-    "name": "POP1-DTI",
-    "latitude": -23.678150,
-    "longitude":-46.557708
+    "key": "SW-DTI_DC_NEXUS_9508",
+    "name": "DTI_DC_NEXUS",
+    "latitude": -23.696062890156266,
+    "longitude":-46.55184133237418
+  },
+  {
+    "key": "SW-POP1_LICITACOES_NEXUS_93240",
+    "name": "POP1-LICITACOES",
+    "latitude": -23.679800143093413,
+    "longitude":-46.55726057654902
   },
   
   {
-    "key": "SW-POP2_HU_c9500",
+    "key": "SW-POP2_HU_C9500",
     "name": "POP2-HU",
-    "latitude": -23.713124,
-    "longitude":-46.559099
+    "latitude": -23.71560401368091,
+    "longitude":-46.554561459364514
   },
   
   {
-    "key": "SW-POP3_Core7500_Educ",
-    "name": "POP3-EDUCACAO",
-    "latitude": -23.702475,
-    "longitude":-46.546967
+    "key": "SW-POP3_HM_C3850X",
+    "name": "POP3-HM",
+    "latitude": -23.70247442166863,
+    "longitude":-46.549565932374136
   },
   
   {
-    "key": "SW-POP4_Mussolini_4800G",
-    "name": "POP4-MUSSOLINI",
-    "latitude": -23.666475,
-    "longitude":-46.567854
+    "key": "SW-POP4_EMEB_NEUSA_BASSETTO_C3850X",
+    "name": "POP4-EMEB_NEUSA_BASSETTO",
+    "latitude": -23.666041779580933,
+    "longitude":-46.565358710308026
   },
   
   {
-    "key": "SW-POP5_Rudge_4800G",
-    "name": "POP5-RUDGE",
-    "latitude": -23.653185,
-    "longitude":-46.570999
+    "key": "SW-POP5_EMEB_OTILIO_OLIVEIRA_C3850X",
+    "name": "POP5-EMEB_OTILIO_OLIVEIRA",
+    "latitude": -23.652516882957773,
+    "longitude":-46.57072667888268
   },
   
   {
-    "key": "SW-POP6_Marchi_4800G",
-    "name": "POP6-MARCHI",
-    "latitude": -23.721302,
-    "longitude":-46.561171
+    "key": "SW-POP6_EMEB_ESTUDANTE_FLAMINIO_C3850X",
+    "name": "POP6-EMEB_ESTUDANTE_FLAMINIO",
+    "latitude": -23.721165499507997,
+    "longitude":-46.56132442315279
   },
   
   {
-    "key": "SW-POP7_Assuncao_4800G",
-    "name": "POP7-ASSUNCAO",
-    "latitude": -23.720881,
-    "longitude":-46.578926
+    "key": "SW-POP7_UPA_ALVES_DIAS_C3850X",
+    "name": "POP7-UPA_ALVES_DIAS",
+    "latitude":-23.724201013248315,
+    "longitude":-46.576982047712875
   },
   
   {
-    "key": "SW-POP8_Independencia_4800G",
-    "name": "POP8-IDEPENDENCIA",
-    "latitude": -23.698560,
-    "longitude":-46.581210
+    "key": "SW-POP8_EMEB_CASSIANO_RICARDO_4800G",
+    "name": "POP8-EMEB_CASSIANO_RICARDO",
+    "latitude": -23.698571024566984, 
+    "longitude":-46.58135504771376
   },
   
   {
-    "key": "SW-POP9_Ferrazopolis_4800G",
-    "name": "POP9-FERRAZOPOLIS",
-    "latitude": -23.722956,
-    "longitude":-46.538805
+    "key": "SW-POP9_EMEB_HYGINO_BATISTA_C3850X",
+    "name": "POP9-EMEB_HYGINO_BATISTA",
+    "latitude": -23.72263614600801,
+    "longitude":-46.53832882178649
   },
   
   {
-    "key": "SW-POP10_Alvarenga_4800G",
-    "name": "POP10-ALVARENGA",
-    "latitude": -23.734060,
-    "longitude":-46.578018
+    "key": "SW-POP10_HC_C3850X",
+    "name": "POP10-HC",
+    "latitude": -23.731182443778483,
+    "longitude":-46.575900083821516
   },
   
   {
-    "key": "SW-POP11_DEMARCHI_4800G",
-    "name": "POP11-DEMARCHI",
-    "latitude": -23.739893,
-    "longitude":-46.555924
+    "key": "SW-POP11_EMEB_HEITOR_VILLA_LOBOS_C3850X",
+    "name": "POP11-EMEB_HEITOR_VILLA_LOBOS",
+    "latitude": -23.739723613481594,
+    "longitude":-46.555000995048594
   },
   
   {
-    "key": "SW-POP12_PAULICEIA_4800G",
-    "name": "POP12-PAULICEIA",
-    "latitude": -23.666000,
-    "longitude":-46.592541
+    "key": "SW-POP12_EMEB_JULIO_ATLAS_C3850X",
+    "name": "POP12-EMEB_JULIO_ATLAS",
+    "latitude": -23.666208687221786,
+    "longitude":-46.592145742668485
   },
   
   {
-    "key": "SW-POP13_Riacho_4800G",
-    "name": "POP13-RIACHO",
-    "latitude": -23.777789,
-    "longitude":-46.530441
+    "key": "SW-POP13_SUB_RIACHO_C3850X",
+    "name": "SW-POP13_SUB_RIACHO_C3850X",
+    "latitude": -23.7775878708921,
+    "longitude":-46.53015244270847
   },
   
   {
-    "key": "SW-POP14_BATISTINI_4800G",
-    "name": "POP14-BATISTINI",
-    "latitude": -23.770466,
-    "longitude":-46.589952
+    "key": "SW-POP14_EMEB_WALDEMAR_CANCIANI_C3850X",
+    "name": "POP14-EMEB_WALDEMAR_CANCIANI",
+    "latitude": -23.769311273345107,
+    "longitude":-46.590521350026584
   },
   
     {
